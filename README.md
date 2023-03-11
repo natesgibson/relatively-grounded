@@ -3,4 +3,4 @@
 
 Scripts are located under Assets/Scripts
 
-Demo here: http://natesgibson.com/relativelygrounded
+Demo: http://natesgibson.com/relativelygrounded
