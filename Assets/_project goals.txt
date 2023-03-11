@@ -1,0 +1,33 @@
+
+FEATURES:
+- 1 jump per input down
+- refactor pause menu code (toggles!)
+- menu system
+	* victory!
+		o player flies across screen (starting position hard, color?)
+		o saws on each side of button that kill players spawning above (mobile?)
+	* better menu style !!
+	* level intro pause menu overlap
+- tutorial
+	* more instruction? Explicit controls? In pause menu?
+- mobile platform stuff
+	* ads !!
+- gamepad stuff
+- juice!
+- different saw gun?
+- new game?
+- better persistent save system?
+- automated level generation?
+- jump animation?
+- portals?
+- sound?
+- graphics settings?
+- optimize performance?
+
+- gate rejection color "opposite" of background?
+- must repress spacebar/jumpbutton to jump
+
+
+BUGS:
+- rare-ish mega jump
+- restart level object positions not reset ?
